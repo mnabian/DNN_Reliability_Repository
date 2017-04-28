@@ -1,0 +1,32 @@
+Using Theano backend.
+/home/mnabia2/.local/lib/python2.7/site-packages/keras/engine/topology.py:1209: UserWarning: Update your `Dense` call to the Keras 2 API: `Dense(kernel_constraint=None, name="dense_43", bias_regularizer=None, bias_constraint=None, activity_regularizer=None, trainable=True, kernel_initializer="glorot_uniform", kernel_regularizer=None, input_dtype="float32", units=128, input_dim=None, batch_input_shape=[None, 39], activation="linear")`
+  return cls(**config)
+/home/mnabia2/.local/lib/python2.7/site-packages/keras/engine/topology.py:1209: UserWarning: Update your `Dropout` call to the Keras 2 API: `Dropout(rate=0.25, trainable=True, name="dropout_37")`
+  return cls(**config)
+/home/mnabia2/.local/lib/python2.7/site-packages/keras/engine/topology.py:1209: UserWarning: Update your `Dense` call to the Keras 2 API: `Dense(kernel_regularizer=None, name="dense_44", bias_regularizer=None, bias_constraint=None, trainable=True, kernel_constraint=None, activation="linear", input_dim=None, units=64, kernel_initializer="glorot_uniform", activity_regularizer=None)`
+  return cls(**config)
+/home/mnabia2/.local/lib/python2.7/site-packages/keras/engine/topology.py:1209: UserWarning: Update your `Dropout` call to the Keras 2 API: `Dropout(rate=0.25, trainable=True, name="dropout_38")`
+  return cls(**config)
+/home/mnabia2/.local/lib/python2.7/site-packages/keras/engine/topology.py:1209: UserWarning: Update your `Dense` call to the Keras 2 API: `Dense(kernel_regularizer=None, name="dense_45", bias_regularizer=None, bias_constraint=None, trainable=True, kernel_constraint=None, activation="linear", input_dim=None, units=32, kernel_initializer="glorot_uniform", activity_regularizer=None)`
+  return cls(**config)
+/home/mnabia2/.local/lib/python2.7/site-packages/keras/engine/topology.py:1209: UserWarning: Update your `Dropout` call to the Keras 2 API: `Dropout(rate=0.25, trainable=True, name="dropout_39")`
+  return cls(**config)
+/home/mnabia2/.local/lib/python2.7/site-packages/keras/engine/topology.py:1209: UserWarning: Update your `Dense` call to the Keras 2 API: `Dense(kernel_regularizer=None, name="dense_46", bias_regularizer=None, bias_constraint=None, trainable=True, kernel_constraint=None, activation="linear", input_dim=None, units=16, kernel_initializer="glorot_uniform", activity_regularizer=None)`
+  return cls(**config)
+/home/mnabia2/.local/lib/python2.7/site-packages/keras/engine/topology.py:1209: UserWarning: Update your `Dropout` call to the Keras 2 API: `Dropout(rate=0.25, trainable=True, name="dropout_40")`
+  return cls(**config)
+/home/mnabia2/.local/lib/python2.7/site-packages/keras/engine/topology.py:1209: UserWarning: Update your `Dense` call to the Keras 2 API: `Dense(kernel_regularizer=None, name="dense_47", bias_regularizer=None, bias_constraint=None, trainable=True, kernel_constraint=None, activation="linear", input_dim=None, units=8, kernel_initializer="glorot_uniform", activity_regularizer=None)`
+  return cls(**config)
+/home/mnabia2/.local/lib/python2.7/site-packages/keras/engine/topology.py:1209: UserWarning: Update your `Dropout` call to the Keras 2 API: `Dropout(rate=0.25, trainable=True, name="dropout_41")`
+  return cls(**config)
+/home/mnabia2/.local/lib/python2.7/site-packages/keras/engine/topology.py:1209: UserWarning: Update your `Dense` call to the Keras 2 API: `Dense(kernel_regularizer=None, name="dense_48", bias_regularizer=None, bias_constraint=None, trainable=True, kernel_constraint=None, activation="linear", input_dim=None, units=4, kernel_initializer="glorot_uniform", activity_regularizer=None)`
+  return cls(**config)
+/home/mnabia2/.local/lib/python2.7/site-packages/keras/engine/topology.py:1209: UserWarning: Update your `Dropout` call to the Keras 2 API: `Dropout(rate=0.25, trainable=True, name="dropout_42")`
+  return cls(**config)
+/home/mnabia2/.local/lib/python2.7/site-packages/keras/engine/topology.py:1209: UserWarning: Update your `Dense` call to the Keras 2 API: `Dense(kernel_regularizer=None, name="dense_49", bias_regularizer=None, bias_constraint=None, trainable=True, kernel_constraint=None, activation="linear", input_dim=None, units=2, kernel_initializer="glorot_uniform", activity_regularizer=None)`
+  return cls(**config)
+Loaded model from disk
+('The surrogate computational time is', 8.720690965652466)
+('The mean connectivity by surrogate computation is', 0.67869880000000005)
+('The standard computational time is', 74.34194898605347)
+('The mean connectivity by standard computation is', 0.6791469)
